@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityGame", "EntityGame\EntityGame.csproj", "{ED8B8105-E54B-442E-8DFB-B765DDC514AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8B8105-E54B-442E-8DFB-B765DDC514AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8B8105-E54B-442E-8DFB-B765DDC514AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8B8105-E54B-442E-8DFB-B765DDC514AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8B8105-E54B-442E-8DFB-B765DDC514AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E48A689-4804-42CD-828F-FE3FE48E9B04}
+	EndGlobalSection
+EndGlobal
